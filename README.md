@@ -1,7 +1,7 @@
 ## Hi there, I'm Rudransh Pratap Singh! 👋
 
 ### About Me
-I'm Rudransh Pratap Singh from Uttarakhand, India. I have a passion for coding and a keen interest in physics. When I'm not coding, you can find me immersed in a good book.
+I'm Rudransh Pratap Singh from Uttarakhand, India 🇮🇳. I have a passion for coding 💻 and a keen interest in physics 🔭. When I'm not coding or reading a good book 📚, you can find me watching Anime 🍿.
 
 ### 🛠️ Skills & Technologies
 
@@ -12,6 +12,7 @@ I'm Rudransh Pratap Singh from Uttarakhand, India. I have a passion for coding a
 ![Clang](https://img.shields.io/badge/Clang-000000?style=for-the-badge&logo=clang&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 #### Frameworks & Libraries
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
@@ -35,22 +36,29 @@ I'm Rudransh Pratap Singh from Uttarakhand, India. I have a passion for coding a
 ![Clang](https://img.shields.io/badge/Clang-000000?style=for-the-badge&logo=clang&logoColor=white)
 
 ### 🌟 Projects
-Here are some of the projects I've worked on:
-- **[Project 1](#)**: 
-- **[Project 2](#)**: 
-
-### 📫 Contact Me
-- **Email**: 
-- **LinkedIn**:
-- **Twitter**:
-
-### 📚 Hobbies & Interests
-- Coding
-- Reading Books
-- Physics
+Here are some of the major projects I've worked on:
+- **[Simple 2D Game for Sprig Console in JerryScript](#)**: A fun game developed using JerryScript for the Sprig console.
+- **[Feedback App in React](#)**: An interactive feedback application built using React.
+- **[Todo App](#)**: A simple Todo list application.
+- **[Covid Tracker](#)**: A Covid-19 tracker application to monitor global and local statistics.
 
 ### 🏆 Achievements
-- 
+- District Topper in CBSE Class 10th Board Examination with 97.4%
+- District Topper in CBSE Class 12th Board Examination with 96%
+- Qualified JEE Advanced
+- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74% and All India Rank (AIR) CRL 4541
+- HackClubber since 2024
+
+### 📫 Contact Me
+- **Email**: Todo
+- **LinkedIn**: Todo
+- **Twitter**: Todo
+
+### 📚 Hobbies & Interests
+- Coding 💻
+- Reading Books 📚
+- Watching Anime 🍿
+- Physics 🔭
 
 ---
 
