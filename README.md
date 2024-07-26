@@ -46,7 +46,7 @@ Here are some of the major projects I've worked on:
 - District Topper in CBSE Class 10th Board Examination with 97.4%
 - District Topper in CBSE Class 12th Board Examination with 96%
 - Qualified JEE Advanced
-- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74% and All India Rank (AIR) CRL 4541
+- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74%
 - HackClubber since 2024
 
 ### 📫 Contact Me
