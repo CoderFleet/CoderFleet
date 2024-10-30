@@ -6,6 +6,9 @@
 ### About Me
 I'm Rudransh Pratap Singh from Uttarakhand, India 🇮🇳. I have a passion for coding 💻 and a keen interest in physics 🔭. When I'm not coding or reading a good book 📚, you can find me watching Anime 🍿.
 
+![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFleet&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=CoderFleet&theme=gotham)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=CoderFleet&theme=juicyfresh&no-bg=true" />
 [![An image of @coderfleet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderfleet)](https://holopin.io/@coderfleet)
 
 ### 🛠️ Skills & Technologies
