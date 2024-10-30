@@ -1,5 +1,8 @@
 ## Hi there, I'm Rudransh Pratap Singh! 👋
 
+
+![](https://komarev.com/ghpvc/?username=coderfleet&color=green)
+
 ### About Me
 I'm Rudransh Pratap Singh from Uttarakhand, India 🇮🇳. I have a passion for coding 💻 and a keen interest in physics 🔭. When I'm not coding or reading a good book 📚, you can find me watching Anime 🍿.
 
