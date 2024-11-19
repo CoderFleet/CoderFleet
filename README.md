@@ -9,7 +9,17 @@ I'm Rudransh Pratap Singh from Uttarakhand, India 🇮🇳. I have a passion for
 ![Rudransh's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoderFleet&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com?user=CoderFleet&theme=gotham)](https://git.io/streak-stats)
 <img src="https://github-profile-trophy.vercel.app/?username=CoderFleet&theme=juicyfresh&no-bg=true" />
+
+## 🏆 Achievements
+### GSSOC 2024-EXTD (Global Rank: 673)
+[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/coderfleet?year=2024Extd)](https://gssoc.girlscript.tech)
+### Hacktoberfest 2024
 [![An image of @coderfleet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderfleet)](https://holopin.io/@coderfleet)
+- District Topper in CBSE Class 10th Board Examination with 97.4%
+- District Topper in CBSE Class 12th Board Examination with 96%
+- Qualified JEE Advanced
+- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74%
+- HackClubber since 2024
 
 ### 🛠️ Skills & Technologies
 
@@ -46,13 +56,6 @@ Here are some of the major projects I've worked on:
 - **[Feedback App in React](#)**: An interactive feedback application built using React.
 - **[Todo App](#)**: A simple Todo list application.
 - **[Covid Tracker](#)**: A Covid-19 tracker application to monitor global and local statistics.
-
-### 🏆 Achievements
-- District Topper in CBSE Class 10th Board Examination with 97.4%
-- District Topper in CBSE Class 12th Board Examination with 96%
-- Qualified JEE Advanced
-- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74%
-- HackClubber since 2024
 
 ### 📫 Contact Me
 - **Email**: Todo
