@@ -15,10 +15,7 @@ I'm Rudransh Pratap Singh from Uttarakhand, India 🇮🇳. I have a passion for
 [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/coderfleet?year=2024Extd)](https://gssoc.girlscript.tech)
 ### Hacktoberfest 2024
 [![An image of @coderfleet's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/coderfleet)](https://holopin.io/@coderfleet)
-- District Topper in CBSE Class 10th Board Examination with 97.4%
-- District Topper in CBSE Class 12th Board Examination with 96%
-- Qualified JEE Advanced
-- Ranked in the top 0.26% of students in the Joint Entrance Examinations (JEE) in India, with a percentile score of 99.74%
+
 - HackClubber since 2024
 
 ### 🛠️ Skills & Technologies
