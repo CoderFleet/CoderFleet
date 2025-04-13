@@ -82,8 +82,7 @@
 
 <h3 align="left">🌐 Let's Connect:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/rudransh-pratap"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
-  <a href="https://twitter.com/rudransh_codes"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" /></a>
-  <a href="https://leetcode.com/rudransh-pratap"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" /></a>
-  <a href="https://codeforces.com/profile/rudransh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
+  <a href="[https://linkedin.com/in/rudransh-pratap](https://www.linkedin.com/in/rudransh-pratap-singh-5a6b72323/)"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/r8dra"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="30" width="40" /></a>
 </p>
+<img src="https://codechef-readme-stats.onrender.com/r8dra?v=1" alt="something you like to put in here"/>
