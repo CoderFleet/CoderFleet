@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rudransh Pratap Singh</h1>
-<h3 align="center">BTech CSE student | First year at NIT Allahabad | Tech Enthusiast | Thinker | Builder</h3>
+<h3 align="center">Sophomore @NITA CSE | Building in Web3</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=coderfleet&color=green" alt="rudransh-pratap" />
 </p>
 
-- 🔭 I’m currently working on **Python Projects, Web Development, and Dev Tools**
+- 🔭 I’m currently working on **Full Stack Development and Web3 Projects**
 - 🌱 Currently learning **Next.js, TypeScript, and more advanced concepts of Data Structures**
 - ⚡ Fun fact: I love exploring **Web3 and Cryptography Algorithms** and I'm really into **Physics**
 - 📫 Reach me at: **tosylfluoride@gmail.com**
