@@ -13,7 +13,7 @@
 ---
 <h3 align="left">📌 Achievements:</h3>
 
-- 🔹 Top-8 @ DevJam Hackathon
+- 🔹 DevJam Finalist
 - 🔹 GSSOC 2024-EXTD Contributor (Global Rank 673)
     [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/coderfleet?year=2024Extd)](https://gssoc.girlscript.tech)
 - 🔹 2-Star @ CodeChef
