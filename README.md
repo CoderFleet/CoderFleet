@@ -5,8 +5,8 @@
   <img src="https://komarev.com/ghpvc/?username=coderfleet&color=green" alt="rudransh-pratap" />
 </p>
 
-- 🔭 I’m currently working on **Full Stack Development and Web3 Projects**
-- 🌱 Currently learning **Next.js, TypeScript, and more advanced concepts of Data Structures**
+- 🔭 I’m currently working on **Veritas and Web3 Projects**
+- 🌱 Currently learning **Ethereum and more advanced concepts of Data Structures**
 - ⚡ Fun fact: I love exploring **Web3 and Cryptography Algorithms** and I'm really into **Physics**
 - 📫 Reach me at: **tosylfluoride@gmail.com**
 
