@@ -9,14 +9,16 @@
 - 🌱 Currently learning **Ethereum and more advanced concepts of Data Structures**
 - ⚡ Fun fact: I love exploring **Web3 and Cryptography Algorithms** and I'm really into **Competitive Programming**
 - 📫 Reach me at: **tosylfluoride@gmail.com**
+- If you are reading this, please remind me to update this README.md it's probably outdated
 
 ---
 <h3 align="left">📌 Achievements:</h3>
 
-- 🔹 Pupil @ Codeforces (Max-Rating: 1335) 😭
+- 🔹 Specialist @ Codeforces (Max-Rating: 1423) 😭
 - 🔹 3-Star @ CodeChef (Max-Rating: 1609)  😑
 - 🔹 IITKGP Summer Of Quant 2025
-- 🔹 Hack36 2025 (Online)
+- 🔹 Winner @Softathlon
+- 🔹 Rank 8: ISEA Hack36 2026
 - 🔹 DevJam Finalist
 - 🔹 GSSOC 2024-EXTD Contributor (Global Rank 673)
     [![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/coderfleet?year=2024Extd)](https://gssoc.girlscript.tech)
